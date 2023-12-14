@@ -11,3 +11,14 @@
 -emoloye a été ajouté avec succes:
 
 ![22](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/d0c45dbe-513e-43f4-9ea4-e1dc2c7d69a7)
+
+-details d'un employe:
+
+![3](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/1999f173-29b8-4f99-b494-4b3ac1d52a72)
+
+-Modifier employe:
+
+![4](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/0bedb85a-875f-4afc-8558-7a2f698ac05c)
+
+![44](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/1b3f35f6-fef2-43b1-bcd5-771841a6f15e)
+
