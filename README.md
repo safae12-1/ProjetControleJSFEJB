@@ -64,5 +64,14 @@
 
 ![m66](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/db461a2e-5117-4feb-aed4-696f3fb119b1)
 
+-->Liste des machines par employé:
+
+![liste](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/f1a26a07-6f83-4a6d-9713-bb4e5504c8c2)
+
+-->Graphe machine par année:
+
+![graphe](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/e2fe5dec-e128-49f3-a1ab-35c8a7b87d01)
+
+
 
 
