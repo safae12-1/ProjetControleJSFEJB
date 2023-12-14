@@ -32,4 +32,37 @@
 
 ![Capture d’écran 2023-12-14 093058](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/7eb6901c-e8fc-45f3-9c13-f60aa926259e)
 
+-->liste des machine:
+
+![m1](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/cdda79ad-bcbc-4df7-b53c-a6002ff13edd)
+
+-->Ajouter machine:
+
+![m2](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/5cca4d57-2bef-41fc-bb97-fe74c9c9c4ce)
+
+-machine a été ajouté avec succes:
+
+![m22](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/987be662-ef6f-4d86-ad39-4b09c13b0800)
+
+-->Details d'une machine:
+
+![m3](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/f6675892-2f61-42ef-b60d-23641c953473)
+
+-->Modifier machine:
+
+![m4](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/8e48053f-c4e5-41f4-8bbb-e42606bde210)
+
+-->Supprimer machine:
+
+![m5](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/00e48633-b02c-4a9f-934d-9330dab85557)
+
+-->Filtre par marque:
+
+![m6](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/71068b22-5c01-4be0-86e5-8459c7f6053f)
+
+-->Filtre par employe:
+
+![m66](https://github.com/safae12-1/ProjetControleJSFEJB/assets/124156186/db461a2e-5117-4feb-aed4-696f3fb119b1)
+
+
 
